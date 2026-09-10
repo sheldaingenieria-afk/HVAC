@@ -123,7 +123,7 @@ input[type=range].light{background:linear-gradient(90deg,#00e0ee var(--fill,50%)
   <div class="max-w-7xl mx-auto px-5 sm:px-8">
     <div class="flex items-center justify-between h-20">
       <a href="#inicio" class="flex items-center gap-3 group">
-     <div class="relative w-44 h-44 rounded-xl bg-gradient-to-br from-brand-500 to-teal flex items-center justify-center shadow-glow group-hover:scale-105 transition-transform">
+     <div class="relative w-26 h-26 rounded-xl bg-gradient-to-br from-brand-500 to-teal flex items-center justify-center shadow-glow group-hover:scale-105 transition-transform">
   <img src="LOGO SHELDA SF.png" alt="SHELDA Logo" class="w-24 h-24 object-contain">
 </div>
         <div class="leading-tight">
@@ -943,7 +943,7 @@ input[type=range].light{background:linear-gradient(90deg,#00e0ee var(--fill,50%)
     <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-10">
       <div class="lg:col-span-2">
         <div class="flex items-center gap-3">
-       <div class="w-44 h-44 rounded-xl bg-gradient-to-br from-brand-500 to-teal flex items-center justify-center">
+       <div class="w-26 h-26 rounded-xl bg-gradient-to-br from-brand-500 to-teal flex items-center justify-center">
   <img src="LOGO SHELDA SF.png" alt="SHELDA Logo" class="w-24 h-24 object-contain">
 </div>
           <div class="leading-tight"><div class="font-display font-extrabold text-2xl tracking-tight">SHELDA</div><div class="text-[11px] uppercase tracking-[0.18em] text-brand-200">Climatización · Querétaro</div></div>

@@ -127,7 +127,7 @@ input[type=range].light{background:linear-gradient(90deg,#00e0ee var(--fill,50%)
   <img src="LOGO SHELDA SF.png" alt="SHELDA Logo" class="w-24 h-24 object-contain">
 </div>
         <div class="leading-tight">
-          <div class="nav-logo-text font-display font-extrabold text-2xl tracking-tight text-white transition-colors">SHELDA</div>
+          <div class="nav-logo-text font-display font-extrabold text-2xl tracking-tight text-blue-600 transition-colors">SHELDA</div>
           <div class="nav-sub text-[11px] uppercase tracking-[0.18em] text-brand-200 transition-colors">Climatización · Querétaro</div>
         </div>
       </a>

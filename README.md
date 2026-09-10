@@ -123,8 +123,8 @@ input[type=range].light{background:linear-gradient(90deg,#00e0ee var(--fill,50%)
   <div class="max-w-7xl mx-auto px-5 sm:px-8">
     <div class="flex items-center justify-between h-20">
       <a href="#inicio" class="flex items-center gap-3 group">
-        <div class="relative w-11 h-11 rounded-xl bg-gradient-to-br from-brand-500 to-teal flex items-center justify-center shadow-glow group-hover:scale-105 transition-transform">
-  <img src="images/logo.png" alt="SHELDA Logo" class="w-6 h-6 object-contain">
+       <div class="relative w-11 h-11 rounded-xl bg-gradient-to-br from-brand-500 to-teal flex items-center justify-center shadow-glow group-hover:scale-105 transition-transform">
+  <img src="images/LOGO SHELDA SF.png" alt="SHELDA Logo" class="w-6 h-6 object-contain">
 </div>
         <div class="leading-tight">
           <div class="nav-logo-text font-display font-extrabold text-2xl tracking-tight text-white transition-colors">SHELDA</div>
@@ -943,7 +943,9 @@ input[type=range].light{background:linear-gradient(90deg,#00e0ee var(--fill,50%)
     <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-10">
       <div class="lg:col-span-2">
         <div class="flex items-center gap-3">
-          <div class="w-11 h-11 rounded-xl bg-gradient-to-br from-brand-500 to-teal flex items-center justify-center"><svg viewBox="0 0 24 24" class="w-6 h-6 text-white" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v20M4.9 6.5l14.2 11M19.1 6.5 4.9 17.5"/><path d="M12 2l-2.5 2.5M12 2l2.5 2.5M12 22l-2.5-2.5M12 22l2.5-2.5"/></svg></div>
+        <div class="w-11 h-11 rounded-xl bg-gradient-to-br from-brand-500 to-teal flex items-center justify-center">
+  <img src="images/LOGO SHELDA SF.png" alt="SHELDA Logo" class="w-6 h-6 object-contain">
+</div>
           <div class="leading-tight"><div class="font-display font-extrabold text-2xl tracking-tight">SHELDA</div><div class="text-[11px] uppercase tracking-[0.18em] text-brand-200">Climatización · Querétaro</div></div>
         </div>
         <p class="mt-5 text-brand-100/70 max-w-md leading-relaxed">Distribuidor autorizado GREE con 12 años de experiencia en venta, instalación y mantenimiento para hogares, negocios e industria en Querétaro.</p>

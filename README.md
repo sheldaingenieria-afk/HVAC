@@ -137,11 +137,11 @@
       </nav>
 
       <div class="hidden lg:flex items-center gap-3">
-        <a href="tel:+524420000000" class="nav-link inline-flex items-center gap-2 text-sm font-semibold text-white/90 hover:text-brand-400 transition-colors">
+        <a href="tel:+524422219667" class="nav-link inline-flex items-center gap-2 text-sm font-semibold text-white/90 hover:text-brand-400 transition-colors">
           <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M2.25 6.75c0 8.284 6.716 15 15 15h2.25a2.25 2.25 0 002.25-2.25v-1.372c0-.516-.351-.966-.852-1.091l-4.423-1.106c-.44-.11-.902.055-1.173.417l-.97 1.293c-.282.376-.769.542-1.21.38a12.035 12.035 0 01-7.143-7.143c-.162-.441.004-.928.38-1.21l1.293-.97c.363-.271.527-.734.417-1.173L6.963 3.102a1.125 1.125 0 00-1.091-.852H4.5A2.25 2.25 0 002.25 4.5v2.25z"/></svg>
           442 000 0000
         </a>
-        <a href="https://wa.me/524420000000?text=Hola%20SHELDA%2C%20me%20interesa%20una%20cotizaci%C3%B3n%20de%20aire%20acondicionado." target="_blank" rel="noopener" class="inline-flex items-center gap-2 rounded-full bg-wa text-white text-sm font-semibold px-5 py-2.5 hover:brightness-110 hover:-translate-y-0.5 transition-all shadow-lg shadow-wa/30">
+        <a href="https://wa.me/524422219667?text=Hola%20SHELDA%2C%20me%20interesa%20una%20cotizaci%C3%B3n%20de%20aire%20acondicionado." target="_blank" rel="noopener" class="inline-flex items-center gap-2 rounded-full bg-wa text-white text-sm font-semibold px-5 py-2.5 hover:brightness-110 hover:-translate-y-0.5 transition-all shadow-lg shadow-wa/30">
           <svg class="w-4 h-4" viewBox="0 0 24 24" fill="currentColor"><path d="M20.52 3.48A11.86 11.86 0 0012.06 0C5.5 0 .16 5.34.16 11.9c0 2.1.55 4.14 1.6 5.95L0 24l6.32-1.66a11.9 11.9 0 005.74 1.46c6.56 0 11.9-5.34 11.9-11.9 0-3.18-1.24-6.17-3.44-8.42zM12.06 21.8a9.9 9.9 0 01-5.04-1.38l-.36-.21-3.75.98 1-3.65-.24-.38a9.87 9.87 0 01-1.51-5.26c0-5.45 4.44-9.89 9.9-9.89 2.64 0 5.13 1.03 7 2.9a9.83 9.83 0 012.9 7c0 5.45-4.44 9.89-9.9 9.89zm5.43-7.4c-.3-.15-1.76-.87-2.03-.97-.27-.1-.47-.15-.67.15-.2.3-.77.97-.94 1.17-.17.2-.35.22-.64.07-.3-.15-1.26-.46-2.4-1.48-.88-.79-1.48-1.76-1.65-2.06-.17-.3-.02-.46.13-.6.13-.14.3-.35.45-.52.15-.17.2-.3.3-.5.1-.2.05-.37-.03-.52-.07-.15-.67-1.6-.91-2.2-.24-.58-.49-.5-.67-.5h-.57c-.2 0-.52.07-.79.37-.27.3-1.04 1.01-1.04 2.47s1.06 2.87 1.21 3.07c.15.2 2.1 3.2 5.08 4.48.71.31 1.26.49 1.69.63.71.23 1.36.2 1.87.12.57-.08 1.76-.72 2.01-1.41.25-.7.25-1.29.17-1.41-.07-.13-.27-.2-.57-.35z"/></svg>
           WhatsApp
         </a>
@@ -164,8 +164,8 @@
       <a href="#proceso" class="mob-link px-3 py-3 rounded-lg text-navy font-medium hover:bg-ice">Proceso</a>
       <a href="#contacto" class="mob-link px-3 py-3 rounded-lg text-navy font-medium hover:bg-ice">Contacto</a>
       <div class="grid grid-cols-2 gap-3 mt-3">
-        <a href="tel:+524420000000" class="inline-flex justify-center items-center gap-2 rounded-xl bg-navy text-white font-semibold py-3">Llamar</a>
-        <a href="https://wa.me/524420000000?text=Hola%20SHELDA%2C%20me%20interesa%20una%20cotizaci%C3%B3n." target="_blank" rel="noopener" class="inline-flex justify-center items-center gap-2 rounded-xl bg-wa text-white font-semibold py-3">WhatsApp</a>
+        <a href="tel:+524422219667" class="inline-flex justify-center items-center gap-2 rounded-xl bg-navy text-white font-semibold py-3">Llamar</a>
+        <a href="https://wa.me/524422219667?text=Hola%20SHELDA%2C%20me%20interesa%20una%20cotizaci%C3%B3n." target="_blank" rel="noopener" class="inline-flex justify-center items-center gap-2 rounded-xl bg-wa text-white font-semibold py-3">WhatsApp</a>
       </div>
     </div>
   </div>
@@ -192,7 +192,7 @@
           Venta, instalación y mantenimiento de aire acondicionado con <strong class="text-white font-semibold">12 años de experiencia</strong>. Desde un minisplit para tu hogar hasta sistemas VRF y chillers para grandes proyectos — con la garantía y respaldo de GREE.
         </p>
         <div class="reveal reveal-delay-3 mt-9 flex flex-col sm:flex-row gap-4">
-          <a href="https://wa.me/524420000000?text=Hola%20SHELDA%2C%20quiero%20cotizar%20un%20equipo%20de%20aire%20acondicionado." target="_blank" rel="noopener" class="inline-flex justify-center items-center gap-2.5 rounded-full bg-wa text-white font-semibold px-7 py-4 hover:brightness-110 hover:-translate-y-0.5 transition-all shadow-xl shadow-wa/30">
+          <a href="https://wa.me/524422219667?text=Hola%20SHELDA%2C%20quiero%20cotizar%20un%20equipo%20de%20aire%20acondicionado." target="_blank" rel="noopener" class="inline-flex justify-center items-center gap-2.5 rounded-full bg-wa text-white font-semibold px-7 py-4 hover:brightness-110 hover:-translate-y-0.5 transition-all shadow-xl shadow-wa/30">
             <svg class="w-5 h-5" viewBox="0 0 24 24" fill="currentColor"><path d="M20.52 3.48A11.86 11.86 0 0012.06 0C5.5 0 .16 5.34.16 11.9c0 2.1.55 4.14 1.6 5.95L0 24l6.32-1.66a11.9 11.9 0 005.74 1.46c6.56 0 11.9-5.34 11.9-11.9 0-3.18-1.24-6.17-3.44-8.42zM12.06 21.8a9.9 9.9 0 01-5.04-1.38l-.36-.21-3.75.98 1-3.65-.24-.38a9.87 9.87 0 01-1.51-5.26c0-5.45 4.44-9.89 9.9-9.89 2.64 0 5.13 1.03 7 2.9a9.83 9.83 0 012.9 7c0 5.45-4.44 9.89-9.9 9.89zm5.43-7.4c-.3-.15-1.76-.87-2.03-.97-.27-.1-.47-.15-.67.15-.2.3-.77.97-.94 1.17-.17.2-.35.22-.64.07-.3-.15-1.26-.46-2.4-1.48-.88-.79-1.48-1.76-1.65-2.06-.17-.3-.02-.46.13-.6.13-.14.3-.35.45-.52.15-.17.2-.3.3-.5.1-.2.05-.37-.03-.52-.07-.15-.67-1.6-.91-2.2-.24-.58-.49-.5-.67-.5h-.57c-.2 0-.52.07-.79.37-.27.3-1.04 1.01-1.04 2.47s1.06 2.87 1.21 3.07c.15.2 2.1 3.2 5.08 4.48.71.31 1.26.49 1.69.63.71.23 1.36.2 1.87.12.57-.08 1.76-.72 2.01-1.41.25-.7.25-1.29.17-1.41-.07-.13-.27-.2-.57-.35z"/></svg>
             Cotizar por WhatsApp
           </a>
@@ -370,7 +370,7 @@
         <h2 class="mt-3 font-display font-extrabold text-3xl sm:text-4xl lg:text-5xl text-navy tracking-tight leading-tight">Soluciones para cada espacio y cada escala.</h2>
         <p class="mt-4 text-slate-600 text-lg">Manejamos toda la línea de climatización: desde equipos residenciales hasta sistemas centrales para edificios, hoteles, hospitales y plantas industriales.</p>
       </div>
-      <a href="https://wa.me/524420000000?text=Hola%20SHELDA%2C%20quiero%20asesor%C3%ADa%20para%20elegir%20el%20equipo%20ideal." target="_blank" rel="noopener" class="inline-flex items-center gap-2 font-semibold text-brand-700 hover:text-brand-900 transition-colors shrink-0">
+      <a href="https://wa.me/524422219667?text=Hola%20SHELDA%2C%20quiero%20asesor%C3%ADa%20para%20elegir%20el%20equipo%20ideal." target="_blank" rel="noopener" class="inline-flex items-center gap-2 font-semibold text-brand-700 hover:text-brand-900 transition-colors shrink-0">
         ¿No sabes cuál necesitas? Te asesoramos
         <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
       </a>
@@ -447,7 +447,7 @@
           <h3 class="mt-3 font-display font-bold text-xl leading-snug">¿Tienes un proyecto comercial o industrial?</h3>
           <p class="mt-2 text-sm text-brand-100/80">Diseñamos la ingeniería completa: cálculo, selección, ductería e instalación.</p>
         </div>
-        <a href="https://wa.me/524420000000?text=Hola%20SHELDA%2C%20tengo%20un%20proyecto%20comercial%2Findustrial%20de%20climatizaci%C3%B3n." target="_blank" rel="noopener" class="mt-6 inline-flex items-center justify-center gap-2 rounded-full bg-white text-navy font-semibold px-5 py-3 hover:bg-brand-50 transition-colors">
+        <a href="https://wa.me/524422219667?text=Hola%20SHELDA%2C%20tengo%20un%20proyecto%20comercial%2Findustrial%20de%20climatizaci%C3%B3n." target="_blank" rel="noopener" class="mt-6 inline-flex items-center justify-center gap-2 rounded-full bg-white text-navy font-semibold px-5 py-3 hover:bg-brand-50 transition-colors">
           Hablar con un ingeniero
           <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
         </a>
@@ -701,11 +701,11 @@
           <p class="mt-4 text-brand-100/85 text-lg">Respuesta en minutos por WhatsApp. Visita técnica sin costo en Querétaro y zona metropolitana.</p>
         </div>
         <div class="flex flex-col sm:flex-row lg:justify-end gap-4">
-          <a href="https://wa.me/524420000000?text=Hola%20SHELDA%2C%20quiero%20una%20cotizaci%C3%B3n." target="_blank" rel="noopener" class="inline-flex justify-center items-center gap-2.5 rounded-full bg-wa text-white font-semibold px-7 py-4 hover:brightness-110 hover:-translate-y-0.5 transition-all shadow-xl shadow-wa/30">
+          <a href="https://wa.me/524422219667?text=Hola%20SHELDA%2C%20quiero%20una%20cotizaci%C3%B3n." target="_blank" rel="noopener" class="inline-flex justify-center items-center gap-2.5 rounded-full bg-wa text-white font-semibold px-7 py-4 hover:brightness-110 hover:-translate-y-0.5 transition-all shadow-xl shadow-wa/30">
             <svg class="w-5 h-5" viewBox="0 0 24 24" fill="currentColor"><path d="M20.52 3.48A11.86 11.86 0 0012.06 0C5.5 0 .16 5.34.16 11.9c0 2.1.55 4.14 1.6 5.95L0 24l6.32-1.66a11.9 11.9 0 005.74 1.46c6.56 0 11.9-5.34 11.9-11.9 0-3.18-1.24-6.17-3.44-8.42zM12.06 21.8a9.9 9.9 0 01-5.04-1.38l-.36-.21-3.75.98 1-3.65-.24-.38a9.87 9.87 0 01-1.51-5.26c0-5.45 4.44-9.89 9.9-9.89 2.64 0 5.13 1.03 7 2.9a9.83 9.83 0 012.9 7c0 5.45-4.44 9.89-9.9 9.89zm5.43-7.4c-.3-.15-1.76-.87-2.03-.97-.27-.1-.47-.15-.67.15-.2.3-.77.97-.94 1.17-.17.2-.35.22-.64.07-.3-.15-1.26-.46-2.4-1.48-.88-.79-1.48-1.76-1.65-2.06-.17-.3-.02-.46.13-.6.13-.14.3-.35.45-.52.15-.17.2-.3.3-.5.1-.2.05-.37-.03-.52-.07-.15-.67-1.6-.91-2.2-.24-.58-.49-.5-.67-.5h-.57c-.2 0-.52.07-.79.37-.27.3-1.04 1.01-1.04 2.47s1.06 2.87 1.21 3.07c.15.2 2.1 3.2 5.08 4.48.71.31 1.26.49 1.69.63.71.23 1.36.2 1.87.12.57-.08 1.76-.72 2.01-1.41.25-.7.25-1.29.17-1.41-.07-.13-.27-.2-.57-.35z"/></svg>
             WhatsApp
           </a>
-          <a href="tel:+524420000000" class="inline-flex justify-center items-center gap-2.5 rounded-full bg-white text-navy font-semibold px-7 py-4 hover:bg-brand-50 transition-all">
+          <a href="tel:+524422219667" class="inline-flex justify-center items-center gap-2.5 rounded-full bg-white text-navy font-semibold px-7 py-4 hover:bg-brand-50 transition-all">
             <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M2.25 6.75c0 8.284 6.716 15 15 15h2.25a2.25 2.25 0 002.25-2.25v-1.372c0-.516-.351-.966-.852-1.091l-4.423-1.106c-.44-.11-.902.055-1.173.417l-.97 1.293c-.282.376-.769.542-1.21.38a12.035 12.035 0 01-7.143-7.143c-.162-.441.004-.928.38-1.21l1.293-.97c.363-.271.527-.734.417-1.173L6.963 3.102a1.125 1.125 0 00-1.091-.852H4.5A2.25 2.25 0 002.25 4.5v2.25z"/></svg>
             Llamar ahora
           </a>
@@ -725,7 +725,7 @@
         <p class="mt-4 text-slate-600 text-lg">Elige el canal que prefieras. Estamos disponibles de lunes a sábado para atenderte con rapidez.</p>
 
         <div class="mt-8 space-y-4">
-          <a href="https://wa.me/524420000000?text=Hola%20SHELDA%2C%20me%20gustar%C3%ADa%20recibir%20informaci%C3%B3n." target="_blank" rel="noopener" class="card flex items-center gap-4 rounded-2xl bg-white border border-slate-200 p-5 group">
+          <a href="https://wa.me/524422219667?text=Hola%20SHELDA%2C%20me%20gustar%C3%ADa%20recibir%20informaci%C3%B3n." target="_blank" rel="noopener" class="card flex items-center gap-4 rounded-2xl bg-white border border-slate-200 p-5 group">
             <div class="w-12 h-12 rounded-xl bg-wa/10 text-wa flex items-center justify-center shrink-0">
               <svg class="w-6 h-6" viewBox="0 0 24 24" fill="currentColor"><path d="M20.52 3.48A11.86 11.86 0 0012.06 0C5.5 0 .16 5.34.16 11.9c0 2.1.55 4.14 1.6 5.95L0 24l6.32-1.66a11.9 11.9 0 005.74 1.46c6.56 0 11.9-5.34 11.9-11.9 0-3.18-1.24-6.17-3.44-8.42zM12.06 21.8a9.9 9.9 0 01-5.04-1.38l-.36-.21-3.75.98 1-3.65-.24-.38a9.87 9.87 0 01-1.51-5.26c0-5.45 4.44-9.89 9.9-9.89 2.64 0 5.13 1.03 7 2.9a9.83 9.83 0 012.9 7c0 5.45-4.44 9.89-9.9 9.89zm5.43-7.4c-.3-.15-1.76-.87-2.03-.97-.27-.1-.47-.15-.67.15-.2.3-.77.97-.94 1.17-.17.2-.35.22-.64.07-.3-.15-1.26-.46-2.4-1.48-.88-.79-1.48-1.76-1.65-2.06-.17-.3-.02-.46.13-.6.13-.14.3-.35.45-.52.15-.17.2-.3.3-.5.1-.2.05-.37-.03-.52-.07-.15-.67-1.6-.91-2.2-.24-.58-.49-.5-.67-.5h-.57c-.2 0-.52.07-.79.37-.27.3-1.04 1.01-1.04 2.47s1.06 2.87 1.21 3.07c.15.2 2.1 3.2 5.08 4.48.71.31 1.26.49 1.69.63.71.23 1.36.2 1.87.12.57-.08 1.76-.72 2.01-1.41.25-.7.25-1.29.17-1.41-.07-.13-.27-.2-.57-.35z"/></svg>
             </div>
@@ -735,7 +735,7 @@
             </div>
             <svg class="w-5 h-5 text-slate-300 group-hover:text-brand-500 group-hover:translate-x-1 transition-all" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/></svg>
           </a>
-          <a href="tel:+524420000000" class="card flex items-center gap-4 rounded-2xl bg-white border border-slate-200 p-5 group">
+          <a href="tel:+524422219667" class="card flex items-center gap-4 rounded-2xl bg-white border border-slate-200 p-5 group">
             <div class="w-12 h-12 rounded-xl bg-brand-50 text-brand-700 flex items-center justify-center shrink-0">
               <svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M2.25 6.75c0 8.284 6.716 15 15 15h2.25a2.25 2.25 0 002.25-2.25v-1.372c0-.516-.351-.966-.852-1.091l-4.423-1.106c-.44-.11-.902.055-1.173.417l-.97 1.293c-.282.376-.769.542-1.21.38a12.035 12.035 0 01-7.143-7.143c-.162-.441.004-.928.38-1.21l1.293-.97c.363-.271.527-.734.417-1.173L6.963 3.102a1.125 1.125 0 00-1.091-.852H4.5A2.25 2.25 0 002.25 4.5v2.25z"/></svg>
             </div>
@@ -745,13 +745,13 @@
             </div>
             <svg class="w-5 h-5 text-slate-300 group-hover:text-brand-500 group-hover:translate-x-1 transition-all" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/></svg>
           </a>
-          <a href="mailto:contacto@shelda.mx?subject=Cotizaci%C3%B3n%20aire%20acondicionado" class="card flex items-center gap-4 rounded-2xl bg-white border border-slate-200 p-5 group">
+          <a href="mailto:sheldaingenieria@gmail.com?subject=Cotizaci%C3%B3n%20aire%20acondicionado" class="card flex items-center gap-4 rounded-2xl bg-white border border-slate-200 p-5 group">
             <div class="w-12 h-12 rounded-xl bg-brand-50 text-brand-700 flex items-center justify-center shrink-0">
               <svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M21.75 6.75v10.5a2.25 2.25 0 01-2.25 2.25h-15a2.25 2.25 0 01-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0019.5 4.5h-15a2.25 2.25 0 00-2.25 2.25m19.5 0v.243a2.25 2.25 0 01-1.07 1.916l-7.5 4.615a2.25 2.25 0 01-2.36 0L3.32 8.91a2.25 2.25 0 01-1.07-1.916V6.75"/></svg>
             </div>
             <div class="flex-1">
               <div class="text-xs text-slate-500 font-medium">Correo electrónico</div>
-              <div class="font-display font-bold text-navy">contacto@shelda.mx</div>
+              <div class="font-display font-bold text-navy">sheldaingenieria@gmail.com</div>
             </div>
             <svg class="w-5 h-5 text-slate-300 group-hover:text-brand-500 group-hover:translate-x-1 transition-all" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/></svg>
           </a>
@@ -856,9 +856,9 @@
       <div>
         <h4 class="font-display font-bold text-sm uppercase tracking-wider text-brand-200">Contacto</h4>
         <ul class="mt-5 space-y-3 text-sm text-brand-100/80">
-          <li><a href="https://wa.me/524420000000" target="_blank" rel="noopener" class="hover:text-white transition-colors flex items-center gap-2"><span class="w-1.5 h-1.5 rounded-full bg-wa"></span>WhatsApp: +52 442 000 0000</a></li>
-          <li><a href="tel:+524420000000" class="hover:text-white transition-colors flex items-center gap-2"><span class="w-1.5 h-1.5 rounded-full bg-brand-400"></span>Tel: (442) 000 0000</a></li>
-          <li><a href="mailto:contacto@shelda.mx" class="hover:text-white transition-colors flex items-center gap-2"><span class="w-1.5 h-1.5 rounded-full bg-brand-400"></span>contacto@shelda.mx</a></li>
+          <li><a href="https://wa.me/524422219667" target="_blank" rel="noopener" class="hover:text-white transition-colors flex items-center gap-2"><span class="w-1.5 h-1.5 rounded-full bg-wa"></span>WhatsApp: +52 442 000 0000</a></li>
+          <li><a href="tel:+524422219667" class="hover:text-white transition-colors flex items-center gap-2"><span class="w-1.5 h-1.5 rounded-full bg-brand-400"></span>Tel: (442) 000 0000</a></li>
+          <li><a href="mailto:sheldaingenieria@gmail.com" class="hover:text-white transition-colors flex items-center gap-2"><span class="w-1.5 h-1.5 rounded-full bg-brand-400"></span>sheldaingenieria@gmail.com</a></li>
           <li class="flex items-start gap-2"><span class="w-1.5 h-1.5 rounded-full bg-brand-400 mt-1.5"></span>Querétaro, Qro., México</li>
         </ul>
       </div>
@@ -871,7 +871,7 @@
 </footer>
 
 <!-- ======================= FLOATING WHATSAPP ======================= -->
-<a href="https://wa.me/524420000000?text=Hola%20SHELDA%2C%20me%20interesa%20informaci%C3%B3n%20sobre%20aire%20acondicionado." target="_blank" rel="noopener" aria-label="Contactar por WhatsApp" class="pulse-ring fixed bottom-6 right-6 z-50 w-16 h-16 rounded-full bg-wa text-white flex items-center justify-center shadow-2xl shadow-wa/40 hover:scale-110 transition-transform">
+<a href="https://wa.me/524422219667?text=Hola%20SHELDA%2C%20me%20interesa%20informaci%C3%B3n%20sobre%20aire%20acondicionado." target="_blank" rel="noopener" aria-label="Contactar por WhatsApp" class="pulse-ring fixed bottom-6 right-6 z-50 w-16 h-16 rounded-full bg-wa text-white flex items-center justify-center shadow-2xl shadow-wa/40 hover:scale-110 transition-transform">
   <svg class="w-8 h-8" viewBox="0 0 24 24" fill="currentColor"><path d="M20.52 3.48A11.86 11.86 0 0012.06 0C5.5 0 .16 5.34.16 11.9c0 2.1.55 4.14 1.6 5.95L0 24l6.32-1.66a11.9 11.9 0 005.74 1.46c6.56 0 11.9-5.34 11.9-11.9 0-3.18-1.24-6.17-3.44-8.42zM12.06 21.8a9.9 9.9 0 01-5.04-1.38l-.36-.21-3.75.98 1-3.65-.24-.38a9.87 9.87 0 01-1.51-5.26c0-5.45 4.44-9.89 9.9-9.89 2.64 0 5.13 1.03 7 2.9a9.83 9.83 0 012.9 7c0 5.45-4.44 9.89-9.9 9.89zm5.43-7.4c-.3-.15-1.76-.87-2.03-.97-.27-.1-.47-.15-.67.15-.2.3-.77.97-.94 1.17-.17.2-.35.22-.64.07-.3-.15-1.26-.46-2.4-1.48-.88-.79-1.48-1.76-1.65-2.06-.17-.3-.02-.46.13-.6.13-.14.3-.35.45-.52.15-.17.2-.3.3-.5.1-.2.05-.37-.03-.52-.07-.15-.67-1.6-.91-2.2-.24-.58-.49-.5-.67-.5h-.57c-.2 0-.52.07-.79.37-.27.3-1.04 1.01-1.04 2.47s1.06 2.87 1.21 3.07c.15.2 2.1 3.2 5.08 4.48.71.31 1.26.49 1.69.63.71.23 1.36.2 1.87.12.57-.08 1.76-.72 2.01-1.41.25-.7.25-1.29.17-1.41-.07-.13-.27-.2-.57-.35z"/></svg>
 </a>
 
@@ -938,7 +938,7 @@
 • Servicio: ${f.servicio.value}
 • Equipo: ${f.equipo.value}
 • Detalles: ${f.mensaje.value.trim() || 'Sin detalles adicionales'}`;
-    window.open('https://wa.me/524420000000?text=' + encodeURIComponent(msg), '_blank', 'noopener');
+    window.open('https://wa.me/524422219667?text=' + encodeURIComponent(msg), '_blank', 'noopener');
   });
 
   // Smooth offset for anchors (account for fixed nav)

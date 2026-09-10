@@ -120,7 +120,7 @@
     <div class="flex items-center justify-between h-20">
       <a href="#inicio" class="flex items-center gap-3 group">
        <div class="relative w-11 h-11 rounded-xl bg-gradient-to-br from-brand-500 to-teal flex items-center justify-center shadow-glow">
-  <img src=""C:\Users\leoda\OneDrive\Escritorio\ESCRITORIO 2\LOGO SHELDA SF\LOGO SHELDA SF.png"" alt="SHELDA Logo" class="w-6 h-6 object-contain">
+  <img src="LOGO SHELDA SF.png" alt="SHELDA Logo" class="w-6 h-6 object-contain">
 </div>
         <div class="leading-tight">
           <div class="nav-logo-text font-display font-extrabold text-2xl tracking-tight text-white transition-colors">SHELDA</div>

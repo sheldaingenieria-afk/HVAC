@@ -897,7 +897,7 @@ input[type=range].light{background:linear-gradient(90deg,#00e0ee var(--fill,50%)
         <div class="mt-8 space-y-4">
           <a href="https://wa.me/442 334 4713?text=Hola%20SHELDA%2C%20me%20gustar%C3%ADa%20recibir%20informaci%C3%B3n." target="_blank" rel="noopener" class="card flex items-center gap-4 rounded-2xl bg-white border border-slate-200 p-5 group">
             <div class="w-12 h-12 rounded-xl bg-wa/10 text-wa flex items-center justify-center shrink-0"><svg class="w-6 h-6" viewBox="0 0 24 24" fill="currentColor"><path d="M20.52 3.48A11.86 11.86 0 0012.06 0C5.5 0 .16 5.34.16 11.9c0 2.1.55 4.14 1.6 5.95L0 24l6.32-1.66a11.9 11.9 0 005.74 1.46c6.56 0 11.9-5.34 11.9-11.9 0-3.18-1.24-6.17-3.44-8.42zM12.06 21.8a9.9 9.9 0 01-5.04-1.38l-.36-.21-3.75.98 1-3.65-.24-.38a9.87 9.87 0 01-1.51-5.26c0-5.45 4.44-9.89 9.9-9.89 2.64 0 5.13 1.03 7 2.9a9.83 9.83 0 012.9 7c0 5.45-4.44 9.89-9.9 9.89z"/></svg></div>
-            <div class="flex-1"><div class="text-xs text-slate-500 font-medium">WhatsApp — respuesta en minutos</div><div class="font-display font-bold text-navy">+52 442 221 9667</div></div>
+            <div class="flex-1"><div class="text-xs text-slate-500 font-medium">WhatsApp — respuesta en minutos</div><div class="font-display font-bold text-navy">+52 442 334 4713</div></div>
             <svg class="w-5 h-5 text-slate-300 group-hover:text-brand-500 group-hover:translate-x-1 transition-all" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/></svg>
           </a>
           <a href="tel:+52442 221 9667" class="card flex items-center gap-4 rounded-2xl bg-white border border-slate-200 p-5 group">

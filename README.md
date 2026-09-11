@@ -219,7 +219,7 @@ input[type=range].light{background:linear-gradient(90deg,#00e0ee var(--fill,50%)
           <div class="relative rounded-3xl border border-white/15 bg-white/[0.06] backdrop-blur-xl p-6 sm:p-7 shadow-2xl floaty">
             <div class="flex items-center justify-between">
               <div class="flex items-center gap-2">
-                <div class="text-white font-display font-extrabold tracking-tight text-lg">GREE <span class="font-medium text-brand-200 text-sm">Lomo Inverter</span></div>
+                <div class="text-white font-display font-extrabold tracking-tight text-lg">GREE <span class="font-medium text-brand-200 text-sm">Modo Inverter</span></div>
               </div>
               <button id="powerBtn" class="w-10 h-10 rounded-full bg-teal/20 border border-teal/40 flex items-center justify-center hover:bg-teal/30 transition" title="Encender / Apagar">
                 <svg id="powerIcon" class="w-5 h-5 text-teal" fill="none" stroke="currentColor" stroke-width="2.2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M5.636 5.636a9 9 0 1012.728 0M12 3v8"/></svg>
@@ -371,7 +371,7 @@ input[type=range].light{background:linear-gradient(90deg,#00e0ee var(--fill,50%)
     <div class="text-center max-w-3xl mx-auto reveal">
       <div class="inline-flex items-center gap-2 rounded-full border border-teal/30 bg-teal/10 px-4 py-1.5 text-xs font-extrabold tracking-[0.15em] text-teal">🧮 HERRAMIENTA EXCLUSIVA SHELDA</div>
       <h2 class="mt-4 font-display font-extrabold text-3xl sm:text-4xl lg:text-5xl tracking-tight leading-tight">Calculadora de carga térmica <span class="grad-text">+ Asesor de equipos</span></h2>
-      <p class="mt-4 text-brand-100/85 text-lg">Descubre en 60 segundos cuántas toneladas necesita tu espacio y qué tecnología te conviene. Cálculo orientativo calibrado para el clima de Querétaro.</p>
+      <p class="mt-4 text-brand-100/85 text-lg">Descubre en 60 segundos cuántas toneladas necesita tu espacio y qué tecnología te conviene. Cálculo ORIENTATIVO calibrado para el clima de Querétaro.</p>
     </div>
 
     <!-- Tabs -->

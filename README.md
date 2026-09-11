@@ -483,7 +483,7 @@ input[type=range].light{background:linear-gradient(90deg,#00e0ee var(--fill,50%)
               <div class="rounded-xl bg-white/10 border border-white/10 p-3"><div class="text-[11px] text-brand-200 uppercase tracking-wider">Consumo est./mes*</div><div class="font-display font-extrabold text-lg">$<span id="costOut">—</span> MXN</div></div>
               <div class="rounded-xl bg-white/10 border border-white/10 p-3"><div class="text-[11px] text-brand-200 uppercase tracking-wider">Equipos sugeridos</div><div class="font-display font-extrabold text-lg" id="unitsOut">—</div></div>
             </div>
-            <p class="mt-3 text-[11px] text-brand-200/70">*Estimación con uso 8 h/día, tarifa media CFE y equipo Inverter. Cálculo orientativo, la visita técnica lo confirma sin costo.</p>
+            <p class="mt-3 text-[11px] text-brand-200/70">*Estimación con uso 8 h/día, tarifa media CFE y equipo Inverter. Cálculo orientativo, agenda una visita técnica con nuestros especialistas para confirmar tu mejor opción.</p>
             <div class="mt-4 grid gap-2.5">
               <button id="sendCalcWA" class="w-full inline-flex justify-center items-center gap-2 rounded-full bg-wa text-white font-bold px-6 py-3.5 hover:brightness-110 hover:-translate-y-0.5 transition-all shadow-lg shadow-wa/30">Enviar mi cálculo por WhatsApp</button>
               <button id="copyCalc" class="w-full inline-flex justify-center items-center gap-2 rounded-full border border-white/20 bg-white/5 font-bold px-6 py-3 hover:bg-white/10 transition">📋 Copiar resumen</button>
@@ -1236,7 +1236,7 @@ function runAdvisor(){
   if(inf.has('azotea')) reasons.push(`Tu azotea disponible permite equipos paquete/VRF sin afectar fachada ni interiores.`);
   if(inf.has('doble')) reasons.push(`La doble altura exige equipos de gran alcance como Piso-Techo o divididos.`);
   reasons.push(`Tu prioridad de <b>${priLabel}</b> fue clave en esta selección.`);
-  $('advReason').innerHTML=`<div class="text-xs font-extrabold uppercase tracking-[0.2em] text-teal">🧠 Por qué te recomendamos esto</div><ul class="mt-3 space-y-2 text-[15px] text-brand-100 leading-relaxed">${reasons.map(r=>`<li class="flex gap-2"><span class="text-teal font-bold">✓</span><span>${r}</span></li>`).join('')}</ul><div class="mt-4 text-xs text-brand-200/70">Diagnóstico orientativo. La visita técnica SHELDA (sin costo) confirma capacidad y precio final.</div>`;
+  $('advReason').innerHTML=`<div class="text-xs font-extrabold uppercase tracking-[0.2em] text-teal">🧠 Por qué te recomendamos esto</div><ul class="mt-3 space-y-2 text-[15px] text-brand-100 leading-relaxed">${reasons.map(r=>`<li class="flex gap-2"><span class="text-teal font-bold">✓</span><span>${r}</span></li>`).join('')}</ul><div class="mt-4 text-xs text-brand-200/70">Diagnóstico orientativo. Nuestra visita técnica confirma capacidad y precio final.</div>`;
   adv.step=5; advRender();
   window._advTop=top3;
   showToast('Diagnóstico listo','🎉');

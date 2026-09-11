@@ -965,7 +965,7 @@ input[type=range].light{background:linear-gradient(90deg,#00e0ee var(--fill,50%)
       <div>
         <h4 class="font-display font-bold text-sm uppercase tracking-wider text-brand-200">Contacto</h4>
         <ul class="mt-5 space-y-3 text-sm text-brand-100/80">
-          <li><a href="https://wa.me/442 334 4713" target="_blank" rel="noopener" class="hover:text-white transition-colors flex items-center gap-2"><span class="w-1.5 h-1.5 rounded-full bg-wa"></span>WhatsApp: +52 442 221 9667</a></li>
+          <li><a href="https://wa.me/442 334 4713" target="_blank" rel="noopener" class="hover:text-white transition-colors flex items-center gap-2"><span class="w-1.5 h-1.5 rounded-full bg-wa"></span>WhatsApp: +52 442 334 4713</a></li>
           <li><a href="tel:+52442 221 9667" class="hover:text-white transition-colors flex items-center gap-2"><span class="w-1.5 h-1.5 rounded-full bg-brand-400"></span>Tel: (442) 221 9667</a></li>
           <li><a href="mailto:sheldaingenieria@gmail.com" class="hover:text-white transition-colors flex items-center gap-2"><span class="w-1.5 h-1.5 rounded-full bg-brand-400"></span>sheldaingenieria@gmail.com</a></li>
           <li class="flex items-start gap-2"><span class="w-1.5 h-1.5 rounded-full bg-brand-400 mt-1.5"></span>Querétaro, Qro., México</li>

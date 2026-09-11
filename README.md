@@ -111,7 +111,7 @@ input[type=range].light{background:linear-gradient(90deg,#00e0ee var(--fill,50%)
       <span class="sm:hidden">Distribuidor Autorizado GREE</span>
     </div>
     <div class="flex items-center gap-4 font-semibold">
-      <a href="tel:+52442 221 9667" class="hover:text-teal transition-colors hidden md:inline-flex items-center gap-1.5">☎ (442) 221 9667</a>
+      <a href="tel:+52442 334 4713" class="hover:text-teal transition-colors hidden md:inline-flex items-center gap-1.5">☎ (442) 221 9667</a>
       <a href="mailto:sheldaingenieria@gmail.com" class="hover:text-teal transition-colors hidden md:inline-flex items-center gap-1.5">✉ sheldaingenieria@gmail.com</a>
       <a href="https://wa.me/52442 221 9667?text=Hola%20SHELDA%2C%20me%20interesa%20una%20cotizaci%C3%B3n." target="_blank" rel="noopener" class="inline-flex items-center gap-1.5 bg-wa px-3 py-1 rounded-full text-white hover:brightness-110 transition">WhatsApp directo →</a>
     </div>

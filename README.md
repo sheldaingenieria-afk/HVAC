@@ -1264,10 +1264,19 @@ document.getElementById('quoteForm').addEventListener('submit',e=>{
 });
 
 // ============ Smooth anchors ============
-document.querySelectorAll('a[href^="#"]').forEach(a=>a.addEventListener('click',e=>{
-  const id=a.getAttribute('href');
-  if(id.length>1){ const t=document.querySelector(id); if(t){ e.preventDefault(); const y=t.getBoundingClientRect().top+window.scrollY-100; window.scrollTo({top:y,behavior:'smooth'}); } }
-}));
+$('advNext').onclick=(e)=>{ 
+  e.preventDefault();
+  e.stopPropagation();
+  if(adv.step<4){
+    adv.step++; 
+    advRender(); 
+    setTimeout(() => {
+      window.scrollTo({top:$('panelAdvisor').offsetTop-120, behavior:'smooth'});
+    }, 100);
+  } else { 
+    runAdvisor(); 
+  } 
+};
 </script>
 </body>
 </html>

@@ -845,11 +845,11 @@ input[type=range].light{background:linear-gradient(90deg,#00e0ee var(--fill,50%)
     <div class="mt-10 space-y-3">
       <div class="faq-item reveal rounded-2xl border border-slate-200 bg-ice overflow-hidden">
         <button class="faq-toggle w-full flex items-center justify-between gap-4 p-5 text-left font-bold text-navy">¿Qué capacidad necesita mi espacio?<svg class="faq-chevron w-5 h-5 text-brand-600 shrink-0" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"/></svg></button>
-        <div class="faq-answer"><p class="px-5 pb-5 text-slate-600 text-[15px] leading-relaxed">Depende de m², altura, orientación, ventanas, personas y equipos. Como referencia: una recámara de 15 m² suele requerir 1 TR (12,000 BTU). Usa nuestra <a href="#calculadora" class="text-brand-700 font-bold underline">calculadora gratuita</a> o agenda una visita técnica sin costo y lo calculamos exacto.</p></div>
+        <div class="faq-answer"><p class="px-5 pb-5 text-slate-600 text-[15px] leading-relaxed">Depende de m², altura, orientación, ventanas, personas y equipos. Como referencia: una recámara de 15 m² suele requerir 1 TR (12,000 BTU). Usa nuestra <a href="#calculadora" class="text-brand-700 font-bold underline">calculadora gratuita</a> o agenda una visita técnica y lo calculamos exacto.</p></div>
       </div>
       <div class="faq-item reveal rounded-2xl border border-slate-200 bg-ice overflow-hidden">
         <button class="faq-toggle w-full flex items-center justify-between gap-4 p-5 text-left font-bold text-navy">¿Qué es mejor: Inverter o convencional?<svg class="faq-chevron w-5 h-5 text-brand-600 shrink-0" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"/></svg></button>
-        <div class="faq-answer"><p class="px-5 pb-5 text-slate-600 text-[15px] leading-relaxed">Inverter siempre: ahorra hasta 60% de energía, es más silencioso y mantiene temperatura estable. La diferencia de precio se recupera en meses con el recibo de luz. Todos nuestros equipos GREE son Inverter.</p></div>
+        <div class="faq-answer"><p class="px-5 pb-5 text-slate-600 text-[15px] leading-relaxed">Inverter siempre: ahorra hasta 60% de energía, es más silencioso y mantiene temperatura estable. La diferencia de precio se recupera en meses con el recibo de luz.</p></div>
       </div>
       <div class="faq-item reveal rounded-2xl border border-slate-200 bg-ice overflow-hidden">
         <button class="faq-toggle w-full flex items-center justify-between gap-4 p-5 text-left font-bold text-navy">¿Cuánto tarda una instalación?<svg class="faq-chevron w-5 h-5 text-brand-600 shrink-0" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"/></svg></button>
@@ -861,7 +861,7 @@ input[type=range].light{background:linear-gradient(90deg,#00e0ee var(--fill,50%)
       </div>
       <div class="faq-item reveal rounded-2xl border border-slate-200 bg-ice overflow-hidden">
         <button class="faq-toggle w-full flex items-center justify-between gap-4 p-5 text-left font-bold text-navy">¿Qué garantía ofrecen?<svg class="faq-chevron w-5 h-5 text-brand-600 shrink-0" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"/></svg></button>
-        <div class="faq-answer"><p class="px-5 pb-5 text-slate-600 text-[15px] leading-relaxed">Garantía de fábrica GREE (hasta 5 años en compresor según modelo) + garantía SHELDA por escrito en mano de obra de instalación. Además, seguimiento post-venta y pólizas de mantenimiento.</p></div>
+        <div class="faq-answer"><p class="px-5 pb-5 text-slate-600 text-[15px] leading-relaxed">Garantía de fábrica GREE (10 años en compresor y 3 años en todos sus componentes) + garantía SHELDA. Además, seguimiento post-venta y pólizas de mantenimiento.</p></div>
       </div>
     </div>
   </div>
@@ -875,7 +875,7 @@ input[type=range].light{background:linear-gradient(90deg,#00e0ee var(--fill,50%)
       <div class="relative grid lg:grid-cols-2 gap-8 items-center">
         <div>
           <h2 class="font-display font-extrabold text-3xl sm:text-4xl tracking-tight leading-tight">¿Listo para respirar aire fresco? <span class="grad-text">Cotiza hoy mismo.</span></h2>
-          <p class="mt-4 text-brand-100/85 text-lg">Respuesta en minutos por WhatsApp. Visita técnica sin costo en Querétaro y zona metropolitana.</p>
+          <p class="mt-4 text-brand-100/85 text-lg">Respuesta en minutos por WhatsApp. Visita técnica en Querétaro y zona metropolitana.</p>
         </div>
         <div class="flex flex-col sm:flex-row lg:justify-end gap-4">
           <a href="https://wa.me/442 334 4713?text=Hola%20SHELDA%2C%20quiero%20una%20cotizaci%C3%B3n." target="_blank" rel="noopener" class="inline-flex justify-center items-center gap-2.5 rounded-full bg-wa text-white font-bold px-7 py-4 hover:brightness-110 hover:-translate-y-0.5 transition-all shadow-xl shadow-wa/30">WhatsApp</a>
@@ -912,7 +912,7 @@ input[type=range].light{background:linear-gradient(90deg,#00e0ee var(--fill,50%)
           </a>
           <div class="flex items-start gap-4 rounded-2xl bg-white border border-slate-200 p-5">
             <div class="w-12 h-12 rounded-xl bg-brand-50 text-brand-700 flex items-center justify-center shrink-0"><svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z"/><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1115 0z"/></svg></div>
-            <div><div class="text-xs text-slate-500 font-medium">Cobertura</div><div class="font-display font-bold text-navy">Querétaro, Qro. y zona metropolitana</div><div class="text-sm text-slate-600 mt-1">Lun – Vie 9:00 – 18:00 · Sáb 9:00 – 14:00</div></div>
+            <div><div class="text-xs text-slate-500 font-medium">Cobertura</div><div class="font-display font-bold text-navy">Querétaro, Qro. y zona metropolitana</div><div class="text-sm text-slate-600 mt-1">Lun – Vie 9:00 – 18:00 · Sáb 9:00 – 15:00</div></div>
           </div>
         </div>
       </div>

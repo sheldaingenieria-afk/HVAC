@@ -103,7 +103,7 @@ input[type=range].light{background:linear-gradient(90deg,#00e0ee var(--fill,50%)
 <body>
 
 <!-- ============ TOP BAR ============ -->
-<div class="bg-slate-100 text-slate-800 text-xs sm:text-[13px] relative z-[60]">
+<div class="bg-slate-700 text-white text-xs sm:text-[13px] relative z-[60]">
   <div class="max-w-7xl mx-auto px-5 sm:px-8 py-2 flex items-center justify-between gap-4">
     <div class="flex items-center gap-2 font-medium text-brand-100">
       <span class="w-2 h-2 rounded-full bg-teal animate-pulse"></span>

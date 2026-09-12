@@ -103,7 +103,7 @@ input[type=range].light{background:linear-gradient(90deg,#00e0ee var(--fill,50%)
 <body>
 
 <!-- ============ TOP BAR ============ -->
-<div class="bg-navy text-white text-xs sm:text-[13px] relative z-[60]">
+<div class="bg-slate-100 text-slate-800 text-xs sm:text-[13px] relative z-[60]">
   <div class="max-w-7xl mx-auto px-5 sm:px-8 py-2 flex items-center justify-between gap-4">
     <div class="flex items-center gap-2 font-medium text-brand-100">
       <span class="w-2 h-2 rounded-full bg-teal animate-pulse"></span>
@@ -132,12 +132,12 @@ input[type=range].light{background:linear-gradient(90deg,#00e0ee var(--fill,50%)
         </div>
       </a>
       <nav class="hidden lg:flex items-center gap-7">
-        <a href="#servicios" class="nav-link text-sm font-semibold text-white/85 hover:text-teal transition-colors">Servicios</a>
-        <a href="#calculadora" class="nav-link text-sm font-semibold text-white/85 hover:text-teal transition-colors inline-flex items-center gap-1.5">Calculadora <span class="text-[10px] font-extrabold bg-teal text-navy px-2 py-0.5 rounded-full">NUEVO</span></a>
-        <a href="#equipos" class="nav-link text-sm font-semibold text-white/85 hover:text-teal transition-colors">Equipos</a>
-        <a href="#nosotros" class="nav-link text-sm font-semibold text-white/85 hover:text-teal transition-colors">Nosotros</a>
-        <a href="#proceso" class="nav-link text-sm font-semibold text-white/85 hover:text-teal transition-colors">Proceso</a>
-        <a href="#contacto" class="nav-link text-sm font-semibold text-white/85 hover:text-teal transition-colors">Contacto</a>
+        <a href="#servicios" class="nav-link text-sm font-semibold text-blue-600 hover:text-teal transition-colors">Servicios</a>
+        <a href="#calculadora" class="nav-link text-sm font-semibold text-blue-600 hover:text-teal transition-colors inline-flex items-center gap-1.5">Calculadora <span class="text-[10px] font-extrabold bg-teal text-navy px-2 py-0.5 rounded-full">NUEVO</span></a>
+        <a href="#equipos" class="nav-link text-sm font-semibold text-blue-600 hover:text-teal transition-colors">Equipos</a>
+        <a href="#nosotros" class="nav-link text-sm font-semibold text-blue-600 hover:text-teal transition-colors">Nosotros</a>
+        <a href="#proceso" class="nav-link text-sm font-semibold text-blue-600 hover:text-teal transition-colors">Proceso</a>
+        <a href="#contacto" class="nav-link text-sm font-semibold text-blue-600 hover:text-teal transition-colors">Contacto</a>
       </nav>
       <div class="hidden lg:flex items-center gap-3">
         <a href="tel:+52442 221 9667" class="nav-link inline-flex items-center gap-2 text-sm font-bold text-white/90 hover:text-teal transition-colors">

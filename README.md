@@ -58,8 +58,8 @@ h1,h2,h3,h4,.font-display{font-family:'Manrope',system-ui,sans-serif}
 .marquee:hover{animation-play-state:paused}
 @keyframes pulse-ring{0%{transform:scale(1);opacity:.6}100%{transform:scale(1.7);opacity:0}}
 .pulse-ring::before{content:'';position:absolute;inset:0;border-radius:9999px;background:#25D366;animation:pulse-ring 2s ease-out infinite;z-index:-1}
-#nav{border-bottom:1px solid transparent}
-#nav.scrolled{background:rgba(255,255,255,.93);backdrop-filter:blur(14px);box-shadow:0 6px 30px -16px rgba(11,26,58,.25);border-bottom-color:rgba(226,232,240,.8)}
+#nav{border-bottom:1px solid transparent; background:rgba(241,245,249,.98); backdrop-filter:blur(12px)}
+#nav.scrolled{background:rgba(241,245,249,.98);backdrop-filter:blur(14px);box-shadow:0 6px 30px -16px rgba(11,26,58,.15);border-bottom-color:rgba(203,213,225,.5)}
 #nav.scrolled .nav-link{color:#0b1a3a!important}
 #nav.scrolled .nav-logo-text{color:#0b1a3a}
 #nav.scrolled .nav-sub{color:#64748b}

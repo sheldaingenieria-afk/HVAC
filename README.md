@@ -58,8 +58,8 @@ h1,h2,h3,h4,.font-display{font-family:'Manrope',system-ui,sans-serif}
 .marquee:hover{animation-play-state:paused}
 @keyframes pulse-ring{0%{transform:scale(1);opacity:.6}100%{transform:scale(1.7);opacity:0}}
 .pulse-ring::before{content:'';position:absolute;inset:0;border-radius:9999px;background:#25D366;animation:pulse-ring 2s ease-out infinite;z-index:-1}
-#nav{border-bottom:1px solid transparent; background:rgba(240,249,255,.97)}
-#nav.scrolled{background:rgba(240,249,255,.98);backdrop-filter:blur(14px);box-shadow:0 6px 30px -16px rgba(30,58,138,.12);border-bottom-color:rgba(191,219,254,.4)}
+#nav{border-bottom:1px solid transparent; background:rgba(241,245,249,.98); backdrop-filter:blur(12px)}
+#nav.scrolled{background:rgba(241,245,249,.98);backdrop-filter:blur(14px);box-shadow:0 6px 30px -16px rgba(11,26,58,.15);border-bottom-color:rgba(203,213,225,.5)}
 #nav.scrolled .nav-link{color:#0b1a3a!important}
 #nav.scrolled .nav-logo-text{color:#0b1a3a}
 #nav.scrolled .nav-sub{color:#64748b}
@@ -140,7 +140,7 @@ input[type=range].light{background:linear-gradient(90deg,#00e0ee var(--fill,50%)
         <a href="#contacto" class="nav-link text-sm font-semibold text-blue-600 hover:text-teal transition-colors">Contacto</a>
       </nav>
       <div class="hidden lg:flex items-center gap-3">
-        <a href="tel:+52442 221 9667" class="nav-link inline-flex items-center gap-2 text-sm font-bold text-white/90 hover:text-teal transition-colors">
+        <a href="tel:+52442 221 9667" class="nav-link inline-flex items-center gap-2 text-sm font-bold text-blue-600 hover:text-teal transition-colors">
           <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M2.25 6.75c0 8.284 6.716 15 15 15h2.25a2.25 2.25 0 002.25-2.25v-1.372c0-.516-.351-.966-.852-1.091l-4.423-1.106c-.44-.11-.902.055-1.173.417l-.97 1.293c-.282.376-.769.542-1.21.38a12.035 12.035 0 01-7.143-7.143c-.162-.441.004-.928.38-1.21l1.293-.97c.363-.271.527-.734.417-1.173L6.963 3.102a1.125 1.125 0 00-1.091-.852H4.5A2.25 2.25 0 002.25 4.5v2.25z"/></svg>
           442 221 9667
         </a>

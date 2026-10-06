@@ -1,3 +1,6 @@
+<script src="https://analytics.ahrefs.com/analytics.js" data-key="HuFfp0Mxi4/Zccg42NMaZA" async></script>
+
+
 <html lang="es">
 <head>
 <meta charset="UTF-8">
